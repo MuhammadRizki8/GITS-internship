@@ -19,5 +19,5 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $error = "Masukkan angka positif!";
     }
 }
-
+// referensi : https://planetmath.org/lazycatererssequence
 include 'soal1_template.php';
