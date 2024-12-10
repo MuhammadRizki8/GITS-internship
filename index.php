@@ -13,9 +13,9 @@
                 <h3 class="card-title">Pilih Soal</h3>
             </div>
             <div class="card-body text-center">
-                <a href="soal1.php" class="btn btn-success btn-lg mb-3">Soal 1: A000124 Sequence</a><br>
-                <a href="soal2.php" class="btn btn-warning btn-lg mb-3">Soal 2:  Dense Ranking</a><br>
-                <a href="soal3.php" class="btn btn-danger btn-lg">Soal 3: Balanced Bracket</a>
+                <a href="soal1/index.php" class="btn btn-success btn-lg mb-3">Soal 1: A000124 Sequence</a><br>
+                <a href="soal2/index.php" class="btn btn-warning btn-lg mb-3">Soal 2:  Dense Ranking</a><br>
+                <a href="soal3/index.php" class="btn btn-danger btn-lg">Soal 3: Balanced Bracket</a>
             </div>
         </div>
     </div>

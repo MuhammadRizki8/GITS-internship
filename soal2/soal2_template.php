@@ -13,7 +13,7 @@
                 <h3 class="card-title">Dense Ranking Generator</h3>
             </div>
             <div class="card-body">
-                <form method="POST" action="soal2.php">
+                <form method="POST" action="index.php">
                     <div class="mb-3">
                         <label for="playerCount" class="form-label">Jumlah Pemain</label>
                         <input type="number" class="form-control" id="playerCount" name="playerCount" min="1" required>
@@ -44,7 +44,7 @@
                 <?php endif; ?>
             </div>
         </div>
-        <a href="index.php" class="btn btn-secondary mt-3">Kembali</a>
+        <a href="../index.php" class="btn btn-secondary mt-3">Kembali</a>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>

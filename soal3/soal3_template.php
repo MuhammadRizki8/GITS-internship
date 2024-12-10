@@ -13,7 +13,7 @@
                 <h3 class="card-title">Balanced Brackets Checker</h3>
             </div>
             <div class="card-body">
-                <form method="POST" action="soal3.php">
+                <form method="POST" action="index.php">
                     <div class="mb-3">
                         <label for="brackets" class="form-label">Masukkan String Tanda Kurung</label>
                         <input type="text" class="form-control" id="brackets" name="brackets" required>
@@ -32,7 +32,7 @@
                 <?php endif; ?>
             </div>
         </div>
-        <a href="index.php" class="btn btn-secondary mt-3">Kembali</a>
+        <a href="../index.php" class="btn btn-secondary mt-3">Kembali</a>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
